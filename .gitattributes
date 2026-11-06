@@ -1,0 +1,5 @@
+# Treat the demo UI as secondary so GitHub language stats reflect the FastAPI/Python backend.
+frontend/** linguist-vendored
+*.jsx linguist-vendored
+*.css linguist-vendored
+package-lock.json linguist-generated
